@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>ToraMC Official</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="ToraMC Official - Server Minecraft & Discord vui vẻ, chill, văn minh">
+<style>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    padding: 50px 20px;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 0 25px #7289da;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 10px;
+    text-shadow: 0 0 10px #00ffff;
+}
+
+p {
+    opacity: 0.85;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.join-btn {
+    display: inline-block;
+    padding: 15px 35px;
+    background: #5865F2;
+    color: white;
+    text-decoration: none;
+    border-radius: 40px;
+    font-size: 18px;
+    transition: 0.3s;
+    box-shadow: 0 0 15px #5865F2;
+}
+
+.join-btn:hover {
+    background: #4752c4;
+    box-shadow: 0 0 25px #5865F2;
+}
+
+.footer {
+    margin-top: 50px;
+    font-size: 13px;
+    opacity: 0.6;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <!-- Logo server: Minecraft style -->
+    <img class="logo" src="toramc-logo.png" alt="ToraMC Logo">
+
+    <h1>ToraMC Official</h1>
+    <p>🎮 Cộng đồng Minecraft & Discord • Vui vẻ • Văn minh • Chill</p>
+
+    <!-- Nút join discord -->
+    <a class="join-btn" href="https://discord.gg/RaQhAJ4us">
+        🚀 Tham Gia Discord
+    </a>
+
+    <div class="footer">
+        © 2025 ToraMC Official
+    </div>
+</div>
+</body>
+</html>
