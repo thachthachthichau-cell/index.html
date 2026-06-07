@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tora Service - Cày Thuê Blox Fruits</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#0d1117;
+    color:white;
+}
+
+header{
+    text-align:center;
+    padding:60px 20px;
+    background:linear-gradient(135deg,#ff8c00,#ff2d55);
+}
+
+h1{
+    font-size:40px;
+}
+
+.subtitle{
+    margin-top:10px;
+    font-size:18px;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    padding:30px;
+}
+
+.card{
+    background:#161b22;
+    padding:20px;
+    border-radius:15px;
+    margin-bottom:20px;
+}
+
+.price{
+    display:flex;
+    justify-content:space-between;
+    padding:10px;
+    border-bottom:1px solid #30363d;
+}
+
+.price:last-child{
+    border:none;
+}
+
+.btns{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+    margin-top:20px;
+}
+
+.btn{
+    text-decoration:none;
+    color:white;
+    padding:12px 25px;
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.fb{
+    background:#1877f2;
+}
+
+.zalo{
+    background:#0068ff;
+}
+
+.dis{
+    background:#5865f2;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    color:#999;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>⚡ TORA SERVICE ⚡</h1>
+    <p class="subtitle">Nhận Cày Thuê Blox Fruits Uy Tín</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>📋 Bảng Giá</h2>
+
+        <div class="price">
+            <span>Level 1 ➜ 700</span>
+            <span>50.000đ</span>
+        </div>
+
+        <div class="price">
+            <span>Level 700 ➜ 1500</span>
+            <span>80.000đ</span>
+        </div>
+
+        <div class="price">
+            <span>Level 1500 ➜ Max</span>
+            <span>120.000đ</span>
+        </div>
+
+        <div class="price">
+            <span>Mastery 1 ➜ 300</span>
+            <span>20.000đ</span>
+        </div>
+
+        <div class="price">
+            <span>Mastery 1 ➜ 600</span>
+            <span>50.000đ</span>
+        </div>
+
+        <div class="price">
+            <span>10.000 Fragments</span>
+            <span>20.000đ</span>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>✅ Cam Kết</h2>
+        <p>• Báo tiến độ thường xuyên</p>
+        <p>• Không dùng phần mềm gian lận</p>
+        <p>• Giá thương lượng với đơn lớn</p>
+        <p>• Hỗ trợ khách hàng nhiệt tình</p>
+    </div>
+
+    <div class="card">
+        <h2>📞 Liên Hệ</h2>
+
+        <div class="btns">
+
+            <a class="btn fb"
+            href="https://www.facebook.com/share/1H4Ro5m6xN/"
+            target="_blank">
+            Facebook
+            </a>
+
+            <a class="btn zalo"
+            href="https://zalo.me/0528966470"
+            target="_blank">
+            Zalo 0528966470
+            </a>
+
+            <a class="btn dis"
+            href="https://discord.gg/PkuwhqnyG"
+            target="_blank">
+            Discord
+            </a>
+
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 Tora Service - Blox Fruits
+</footer>
+
+</body>
+</html>
